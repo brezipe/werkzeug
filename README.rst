@@ -32,3 +32,7 @@ Branches
 | ``0.10-maintenance`` | .. image:: https://travis-ci.org/mitsuhiko/werkzeug.svg?branch=0.10-maintenance |
 |                      |     :target: https://travis-ci.org/mitsuhiko/werkzeug                           |
 +----------------------+---------------------------------------------------------------------------------+
+
+Required
+--------
+django-extensions
